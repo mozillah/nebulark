@@ -1,7 +1,7 @@
 {
-  "name": "nebularkwebsite",
+  "name": "nebulark",
   "private": true,
-  "homepage": "https://mozillah.github.io/nebularkwebsite",
+  "homepage": "https://mozillah.github.io/nebulark",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
