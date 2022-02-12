@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nebulark/static/css/main.1de7d856.chunk.css",
+    "main.js": "/nebulark/static/js/main.628d97f3.chunk.js",
+    "main.js.map": "/nebulark/static/js/main.628d97f3.chunk.js.map",
+    "runtime-main.js": "/nebulark/static/js/runtime-main.18986a31.js",
+    "runtime-main.js.map": "/nebulark/static/js/runtime-main.18986a31.js.map",
+    "static/js/2.e77b23d3.chunk.js": "/nebulark/static/js/2.e77b23d3.chunk.js",
+    "static/js/2.e77b23d3.chunk.js.map": "/nebulark/static/js/2.e77b23d3.chunk.js.map",
+    "index.html": "/nebulark/index.html",
+    "static/css/main.1de7d856.chunk.css.map": "/nebulark/static/css/main.1de7d856.chunk.css.map",
+    "static/js/2.e77b23d3.chunk.js.LICENSE.txt": "/nebulark/static/js/2.e77b23d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18986a31.js",
+    "static/js/2.e77b23d3.chunk.js",
+    "static/css/main.1de7d856.chunk.css",
+    "static/js/main.628d97f3.chunk.js"
+  ]
+}
