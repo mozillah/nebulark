@@ -16,43 +16,70 @@
       "Bleeding Edge Technology Adaptation"
     ]
   },
-  "Products": [
-    {
-      "title": "Al Fatihah",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg",
-      "links":
+  "Products":{
+    "title": "List of Products we are currently working on",
+    "products":
+    [
       {
-        "youtube":"youtube.com",
-        "facebook": "fb.com",
-       "twitter": "twitter.com"
+        "title": "Al Fatihah",
+        "smallImages": "img/portfolio/alfatihah.jpg",
+        "smallImage": "img/portfolio/01-small.jpg",
 
-      }
-    },
-    {
-      "title": "Quotegram",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg","links":
+
+        "links":
+        {
+          "wordpress":"https://alfatihah01.wordpress.com/",
+          "facebook": "https://www.facebook.com/alfatihah01",
+         "twitter": "https://twitter.com/AlFatihahTheKey",
+         "instagram":"https://www.instagram.com/alfatihahthekey",
+         "pinterest":"https://www.pinterest.com/al123fatihah/"
+        }
+      },
       {
-        "youtube":"youtube.com",
-        "facebook": "fb.com",
-       "twitter": "twitter.com"
-
-      }
-    },
-    {
-      "title": "Noble Earth",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg",
-      "links":
+        "title": "Quotegram",
+        "smallImage": "img/portfolio/02-small.jpg",
+        "links":
+        {
+          "wordpress":"https://quotegram.wordpress.com/",
+          "facebook": "https://www.facebook.com/profile.php?id=100066698811524",
+         "twitter": "https://twitter.com/DeQuotegram",
+         "instagram":"https://www.instagram.com/dequotegram/",
+         "pinterest":"https://www.pinterest.com/dequotegram/"
+  
+        }
+      },
       {
-        "youtube":"youtube.com",
-        "facebook": "fb.com",
-       "twitter": "twitter.com"
-
+       
+        "title": "Noble Earth",
+        "smallImage": "img/portfolio/03-small.jpg",
+        "smallImages": "img/portfolio/nobleearth.jpg",
+        "links":
+        {
+          "wordpress":"",
+          "facebook": "https://www.facebook.com/TheNobleEarthofficial",
+         "twitter": "https://twitter.com/TheNoble_Earth",
+         "instagram":"https://www.instagram.com/thenobleearth/",
+         "pinterest":"https://www.pinterest.com/thenobleearth"
+  
+        }
+      },
+      {
+        "title": "Opportunity Circle",
+        "smallImage": "img/portfolio/04-small.jpg",
+        "smallImages": "img/portfolio/opportunitycircle.jpg",
+        "links":
+        {
+          "wordpress":"",
+          "facebook": "https://www.facebook.com/Opportunity.Circle/",
+         "twitter": "https://twitter.com/OpportunityCir1",
+         "instagram":"https://www.instagram.com/opportunity_circle/",
+         "pinterest":"https://www.pinterest.com/opportunitycircle/"
+  
+        }
       }
-    }
-  ],
+    ]
+  }
+ ,
   "Services": [
     {
       "icon": "fa fa-code",
